@@ -1,0 +1,30 @@
+body{
+	background-color: #fff;
+}
+.tmpl{
+	padding-bottom: 50px;
+}
+.innerCont img {
+    margin-bottom: 16px;
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+#article_body.jsx-129655388 .summary.jsx-129655388 {
+    color: #666;
+    position: relative;
+    margin-bottom: 34px;
+    line-height: 25px;
+}
+.innerCont p {
+    line-height: 1.6875rem;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+    text-align: justify;
+    word-break: break-all;
+    color: #3f4146;
+    -webkit-letter-spacing: 0.3px;
+    -moz-letter-spacing: 0.3px;
+    -ms-letter-spacing: 0.3px;
+    letter-spacing: 0.3px;
+}
